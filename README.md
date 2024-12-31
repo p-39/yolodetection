@@ -1,4 +1,4 @@
-#Object Detection using YOLO
+#Object Detection using YOLO#
 Object Detection and Tracking using YOLO and OpenCV
 This project implements real-time object detection and tracking using the YOLOv3 algorithm combined with OpenCV. It can detect multiple objects in a video stream and track them across frames using a tracking algorithm, providing robust performance for a variety of applications.
 
